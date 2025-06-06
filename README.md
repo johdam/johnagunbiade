@@ -34,7 +34,14 @@ I am a statistician with a strong passion for uncovering insights from data to i
 - Built time-series models (ARIMA) to forecast COVID-19 case trends.
 - Analyzed global datasets and presented findings using visual storytelling.
 
----
+###📌 Crime Rate Analysis and Predictive Modeling
+- Conducted statistical analysis of crime patterns using regression and descriptive statistics.
+
+- Identified socio-economic factors influencing crime rates and visualized hotspots using Power BI dashboards.
+
+- Provided data-driven insights to support community safety and policy planning.
+
+
 
 ## 📜 Certifications
 - **IBM Data Science Professional Certificate**  
