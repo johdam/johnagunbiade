@@ -60,9 +60,8 @@ I am a statistician with a strong passion for uncovering insights from data to i
 
 ## 📬 Get in Touch
 - 📧 Email: [johnagunbiade08@gmail.com](mailto:johnagunbiade08@gmail.com)  
-- 🌐 GitHub: [github.com/johnagunbiade](https://github.com/johnagunbiade)  
-- 💼 LinkedIn: (Add your LinkedIn link if available)
-
+- 🌐 GitHub:https://github.com/johdam/johnagunbiade.git 
+- 💼 LinkedIn:https://www.linkedin.com/in/john-agunbiade-8222682a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 > *“Statistics is the grammar of science.” — Karl Pearson*
