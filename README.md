@@ -22,8 +22,11 @@ I am a statistician with a strong passion for uncovering insights from data to i
 
 ## 📈 Featured Projects
 
-### 📌 Statistical Analysis of Food Price Inflation in Nigeria
+### 📌 Time Series Analysis of Inflation Dynamics and Crude Oil Market Indicators 2019 TO 2024
 - Developed regression models to assess the impact of various economic indicators on food price trends.
+- Explore relationships between variables (inflation ↔ crude oil ↔ CPI sectors).
+- Apply econometric models like ARIMA, VAR, or cointegration.
+- Build and validate a forecasting model for future inflation rates.
 - Leveraged Power BI to visualize 5-year inflation patterns and policy implications.
 
 ### 📌 Assessment of Tourism Potential at Osun Osogbo Sacred Grove
