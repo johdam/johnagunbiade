@@ -29,7 +29,7 @@ I am a statistician with a strong passion for uncovering insights from data to i
 - Build and validate a forecasting model for future inflation rates.
 - Leveraged Power BI to visualize 5-year inflation patterns and policy implications.
 
-### 📌 Assessment of Tourism Potential at Osun Osogbo Sacred Grove
+### 📌 A TECHNICAL DISSERTATION: Assessment of Tourism Potential at Osun Osogbo Sacred Grove
 - Designed and deployed structured questionnaires to evaluate visitor satisfaction and infrastructure quality.
 - Used Python for descriptive statistics and regression modeling to propose sustainable tourism strategies.
 
